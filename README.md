@@ -5,7 +5,7 @@ A ideia é tornar o processo de busca por doadores mais rápido e organizado, pe
 
 Além disso, o site pretende facilitar a comunicação entre as pessoas que necessitam de sangue e aquelas que desejam ajudar, contribuindo para agilizar o processo de doação e diminuir as dificuldades enfrentadas em momentos de emergência.Solução Proposta – FUSAM: Plataforma de Doação de Sangue
 
-## FUSAM-solução proposta:A solução proposta consiste no desenvolvimento de uma plataforma web que facilite e agilize o processo de busca por doadores de sangue, conectando pessoas que necessitam de doações com possíveis voluntários e unidades de atendimento, como a FUSAM.
+# FUSAM-solução proposta:A solução proposta consiste no desenvolvimento de uma plataforma web que facilite e agilize o processo de busca por doadores de sangue, conectando pessoas que necessitam de doações com possíveis voluntários e unidades de atendimento, como a FUSAM.
 O site contará com um sistema organizado e de fácil utilização, permitindo que os usuários encontrem informações sobre a disponibilidade de locais para doação, os tipos sanguíneos necessários, os requisitos para ser um doador e os procedimentos para realizar a doação.
 
 Além disso, a plataforma poderá oferecer um espaço para divulgação de solicitações urgentes de sangue, informando o tipo sanguíneo necessário, a unidade hospitalar responsável e as orientações para que os interessados possam ajudar.
